@@ -1,0 +1,56 @@
+.outerDiv
+{
+
+}
+
+.bookTable
+{
+	display: flex;
+  	justify-content: center;
+
+  	border-collapse: separate;
+}
+
+
+.tableElementFirst
+{
+	border-right: 1px solid gray;
+	border-bottom: 1px solid gray;
+	border-top: 1px solid gray;
+	border-left: 1px solid gray;
+
+	border-top-left-radius: 6px;
+	border-bottom-left-radius: 6px;
+
+	background-color: #5DBDB5;
+}
+
+.tableElementLast
+{
+	border-right: 1px solid gray;
+	border-bottom: 1px solid gray;
+	border-top: 1px solid gray;
+	border-left: 1px solid gray;
+
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+
+	background-color: #5DBDB5;
+
+}
+
+.tableElement
+{
+	border-right: 1px solid gray;
+	border-bottom: 1px solid gray;
+	border-top: 1px solid gray;
+	border-left: 1px solid gray;
+
+	background-color: #5DBDB5;
+
+}
+
+.imgTable
+{
+	height: 10em;
+}
